@@ -1,0 +1,9 @@
+export SERVERIP='192.168.1.254'
+export MAXFILE=2
+export CLIENTMAPFILE='iplist'
+export PASSWD='mydic'
+export ACCOUNT='dic'
+export SCRIPT_PATH='/home/dic/script'
+export SLEEP_SEC=500000
+export PIECE_FILE='piece.txt'
+export FLASH_PATH='/dev/shm/FRAST'
